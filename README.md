@@ -1,23 +1,29 @@
 ## CodingStandards
+
 ## Lang
 
-### Halcon 
+### C++
+- [C++命名方式建议](https://blog.csdn.net/K346K346/article/details/81395342)
 
 ### .NET
 [Framework Design Guidelines](https://docs.microsoft.com/zh-cn/dotnet/standard/design-guidelines/index)
 
-### C++
+### Python
 
-
-- [C++命名方式建议](https://blog.csdn.net/K346K346/article/details/81395342)
+### Halcon 
 
 
 ## Git and Github
+
 ## Coding Platform
 - [51CTO](https://blog.51cto.com/) 
 
+## Wiki
+### Math
+- [Operation (mathematics)](https://en.wikipedia.org/wiki/Operation_(mathematics))
+- [Modulo operation](https://en.wikipedia.org/wiki/Modulo_operation)
 
-## #GitProj
+## GitProj
 - https://github.com/google/styleguide s21k
 - https://github.com/zh-google-styleguide/zh-google-styleguide s5k
 
