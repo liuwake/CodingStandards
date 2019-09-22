@@ -18,6 +18,10 @@
 ## Coding Platform
 - [51CTO](https://blog.51cto.com/) 
 
+## Learn
+
+- [X分钟速成Y](https://learnxinyminutes.com/)
+- 
 ## Wiki
 ### Math
 - [Operation (mathematics)](https://en.wikipedia.org/wiki/Operation_(mathematics))
