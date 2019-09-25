@@ -24,7 +24,7 @@
 
 ----
 ## Learn
-
+- [Channel9](https://channel9.msdn.com)
 - [X分钟速成Y](https://learnxinyminutes.com/)
 
 ----
@@ -37,6 +37,12 @@
 ## GitProj
 - https://github.com/google/styleguide s21k
 - https://github.com/zh-google-styleguide/zh-google-styleguide s5k
+----
+## Method
+- [敏捷软件开发???](https://baike.baidu.com/item/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/7108658?fromtitle=%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91&fromid=5618867&fr=aladdin)
+
+
+
 
 - [ ] TODO: 依据谷歌项目补充cpp部分
 - [ ] TODO: 依据github和udccity填写Git部分
