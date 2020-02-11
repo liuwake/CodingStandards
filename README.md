@@ -2,8 +2,8 @@
 
 ## Lang
 
-### C++
-- [C++命名方式建议](https://blog.csdn.net/K346K346/article/details/81395342)
+### Cpp
+
 
 ### .NET
 [Framework Design Guidelines](https://docs.microsoft.com/zh-cn/dotnet/standard/design-guidelines/index)
@@ -58,6 +58,12 @@
 ----
 ## Method
 - [敏捷软件开发???](https://baike.baidu.com/item/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91/7108658?fromtitle=%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91&fromid=5618867&fr=aladdin)
+
+## Normal
+### abbreviation
+- https://github.com/BluntSporks/abbreviation
+### Name
+- 文件夹名字大写开头单词间无空格
 
 ## 认证
 - 
